@@ -1,4 +1,3 @@
-# UPSC Concept Extractor
 
 Run it like this:
 ```bash
